@@ -27,7 +27,7 @@
 | 🗓️ GenAI Timetable System | A smart web tool for automated lecture scheduling with Excel exports and absence handling |
 | 🐶 Cat vs Dog Classifier | Deep learning model using Keras to classify cats and dogs |
 | 📊 Price Prediction | ML model to predict prices using regression with pandas & matplotlib |
-| Gemma model|Gemma model train Marathi langauge with 45% acc with the help of python, kaggle, tensorflow, keras
+| 💡Gemma model|Gemma model train Marathi langauge with 45% acc with the help of python, kaggle, tensorflow, keras
 
 ---
 
