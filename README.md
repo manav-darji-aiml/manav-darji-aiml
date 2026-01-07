@@ -41,9 +41,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manavdarji2&show_icons=true&theme=radical&format=png)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manavdarji2&theme=radical&format=png)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manavdarji2&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manavdarji2&theme=radical&hide_border=false" height="150" /> </p>
 
 
 ---
