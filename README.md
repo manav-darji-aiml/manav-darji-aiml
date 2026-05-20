@@ -37,11 +37,11 @@
 
 | Project | Description | Impact | Tech Stack |
 |:---|:---|:---|:---|
-| [**MedSimplify**](https://github.com/Manavdarji2/MedSimplify) | Privacy-first offline clinical assistant — translates complex medical reports into 22 Indian languages using local AI | Real-time streaming · 22 languages · 0 data leakage | Next.js, LangChain, GGUF, ChromaDB, Ollama |
-| [**Gemma-4-Multi**](https://github.com/Manavdarji2/Artificial-intelligence) | Multi-turn language orchestration system with regional dialect processing & advanced prompt routing | Handles multi-dialect queries end-to-end | Python, Keras Backend, Transformers, LangGraph |
-| [**Gemma Marathi**](https://github.com/Manavdarji2/Gemma2-2b-mr-Model-Train-Marathi-Language) | Fine-tuned Google's Gemma 2B model on Marathi language corpus | Improved language accuracy on Marathi benchmarks | Kaggle, TensorFlow, Keras |
-| [**GenAI Timetable**](https://github.com/Manavdarji2/Timetable-genius) | Smart scheduling system with AI-powered conflict resolution & Excel integration | Automated timetable generation for institutions | Flask, MongoDB, OpenAI |
-| [**Local-AI**](https://github.com/Manavdarji2/Local-AI) | Fully local AI assistant combining text & image analysis with multi-agent support (local + online mode) | Works 100% offline with no API dependency | Python, Ollama, Multi-agent |
+| [**MedSimplify**](https://github.com/manav-darji-aiml/MedSimplify) | Privacy-first offline clinical assistant — translates complex medical reports into 22 Indian languages using local AI | Real-time streaming · 22 languages · 0 data leakage | Next.js, LangChain, GGUF, ChromaDB, Ollama |
+| [**Gemma-4-Multi**](https://github.com/manav-darji-aiml/Artificial-intelligence) | Multi-turn language orchestration system with regional dialect processing & advanced prompt routing | Handles multi-dialect queries end-to-end | Python, Keras Backend, Transformers, LangGraph |
+| [**Gemma Marathi**](https://github.com/manav-darji-aiml/Gemma2-2b-mr-Model-Train-Marathi-Language) | Fine-tuned Google's Gemma 2B model on Marathi language corpus | Improved language accuracy on Marathi benchmarks | Kaggle, TensorFlow, Keras |
+| [**GenAI Timetable**](https://github.com/manav-darji-aiml/Timetable-genius) | Smart scheduling system with AI-powered conflict resolution & Excel integration | Automated timetable generation for institutions | Flask, MongoDB, OpenAI |
+| [**Local-AI**](https://github.com/manav-darji-aiml/Local-AI) | Fully local AI assistant combining text & image analysis with multi-agent support (local + online mode) | Works 100% offline with no API dependency | Python, Ollama, Multi-agent |
 
 ---
 
@@ -62,13 +62,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manavdarji2&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manav-darji-aiml&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manavdarji2&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manav-darji-aiml&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manavdarji2&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manav-darji-aiml&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -109,5 +109,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manavdarji2&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=manav-darji-aiml&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
